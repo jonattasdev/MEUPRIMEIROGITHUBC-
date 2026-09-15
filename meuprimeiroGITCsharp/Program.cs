@@ -10,6 +10,7 @@ namespace meuprimeiroGITCsharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello jonatas");
         }
     }
 }
